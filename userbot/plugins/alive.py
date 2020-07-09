@@ -8,7 +8,7 @@ from userbot.utils import admin_cmd
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-INDIANBOT_IS_ALIVE = Ab Kya Hua Be!
+INDIANBOT_IS_ALIVE = Jinda Hu Be!
                      
 
 
